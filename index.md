@@ -26,7 +26,7 @@ I’m a graduate student pursuing my Master’s in Data Science at Bellevue Univ
 ---
 
 ## 📬 Contact
-
+- Phone: 267-309-5099
 - 📧 Email: darious.brown@email.com  
 - 🔗 LinkedIn: [www.linkedin.com/in/dariousbrown]
 - 💻 GitHub: [[https://dare215.github.io/Data-Science-Portfolio-JUL25/](https://github.com/Dare215))
